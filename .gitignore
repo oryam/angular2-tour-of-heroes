@@ -1,0 +1,10 @@
+# import
+node_modules
+typings
+
+# typescript
+**/app/**/*.js
+**/app/**/*.map
+
+# visual studio code
+.vscode
